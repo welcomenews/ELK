@@ -1,1 +1,14 @@
 # ELK
+
+https://docs.graylog.org/en/4.0/pages/installation/os/ubuntu.html
+https://serverspace.ru/support/help/ustanovka-graylog-na-ubuntu-18-04/
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-20-04-ru
+https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-20-04-ru
+
+https://community.jaspersoft.com/questions/1079766/mongodb-connection-solved
+https://community.graylog.org/t/cant-connect-to-mongodb/11476
+https://community.graylog.org/t/updated-from-v2-2-to-v2-3-cant-reach-elasticsearch/4974/3
+https://talk.plesk.com/threads/docker-elasticsearch-how-to.360593/
+
+https://github.com/fluent/fluent-plugin-mongo/issues/124
+https://github.com/fluent/fluentd/issues/2425
