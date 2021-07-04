@@ -6,3 +6,8 @@
 discovery.type: single-node --> In case of single node Elasticsearch cluser
 
 es.enforce.bootstrap.checks=false. --> Explicitly disable these checks in Non-production env.
+
+
+И
+add the varibale to /etc/sysctl.conf
+vm.max_map_count=262144
