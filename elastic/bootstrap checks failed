@@ -1,0 +1,8 @@
+Большинство пользователей не знают, что установка network.host: 0.0.0.0 приведет к проверке начальной загрузки производства, и это является причиной сбоя, как указано в приведенной ниже строке сообщения об ошибке.
+
+[o.e.b.Bootstrap ] [MARFEEN] исключение проверки узла [1] проверка начальной загрузки не удалась
+Чтобы устранить проблему, когда вы запускаете Elasticsearch в режиме разработки или с одним узлом, пожалуйста, добавьте ниже конфигурацию в (Elasticsearch.config), чтобы избежать вышеупомянутых проверок .
+
+discovery.type: single-node --> In case of single node Elasticsearch cluser
+
+es.enforce.bootstrap.checks=false. --> Explicitly disable these checks in Non-production env.
