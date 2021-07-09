@@ -25,3 +25,6 @@ https://talk.plesk.com/threads/docker-elasticsearch-how-to.360593/
 https://github.com/fluent/fluent-plugin-mongo/issues/124
 
 https://github.com/fluent/fluentd/issues/2425
+
+
+- https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elastic-stack-on-ubuntu-20-04-ru
