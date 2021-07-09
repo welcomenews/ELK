@@ -28,3 +28,4 @@ https://github.com/fluent/fluentd/issues/2425
 
 
 - https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elastic-stack-on-ubuntu-20-04-ru
+- https://habr.com/ru/post/538840/
