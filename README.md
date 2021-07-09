@@ -32,3 +32,5 @@ https://github.com/fluent/fluentd/issues/2425
 ```
 настройка ротации индексов в ElasticSearch
 ```
+- https://serveradmin.ru/ochistka-elasticsearch-s-pomoshhyu-curator/
+- https://4admin.space/all/rotaciya-indektov-elasticsearch-utilita-curator-ubuntu-19-04-18/
