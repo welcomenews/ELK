@@ -1,0 +1,7 @@
+```Kibana heap size```
+
+I added the folowing line to the "/etc/default/kibana" file :
+
+NODE_OPTIONS="--max-old-space-size=2048"
+
+And now it's working fine.
