@@ -35,4 +35,3 @@ https://github.com/fluent/fluentd/issues/2425
 - https://serveradmin.ru/ochistka-elasticsearch-s-pomoshhyu-curator/
 - https://4admin.space/all/rotaciya-indektov-elasticsearch-utilita-curator-ubuntu-19-04-18/
 
-``` kadmin:$apr1$WpSXn8FJ$xCnosw1FL7hDFl8TTmuJu1 ```
