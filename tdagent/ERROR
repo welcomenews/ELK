@@ -1,1 +1,8 @@
 td-agent-gem install fluent-plugin-gelf
+
+
+Issue
+Permission denied /var/log/nginx/access.log
+Issue Resolved.
+chown -R root:td-agent /var/log
+chmod -R 775 /var/log/
