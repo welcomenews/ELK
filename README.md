@@ -42,4 +42,6 @@ https://serveradmin.ru/ochistka-elasticsearch-s-pomoshhyu-curator/
 https://www.rosehosting.com/blog/how-to-install-elk-stack-on-ubuntu-20-04/
 https://medium.com/@zynpsnltrk/how-to-manage-logs-using-graylog2-fluentd-1508dc5676e9
 
+Filter
 https://community.graylog.org/t/logstash-output-to-graylog-3-0-cant-search-message/10333
+https://discuss.elastic.co/t/logstash-parsing-nginx-logs-failed/192864
