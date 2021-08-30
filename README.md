@@ -10,6 +10,8 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-el
 
 https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-20-04-ru
 
+https://serveradmin.ru/nastraivaem-sbor-logov-windows-server-v-elk-stack/
+
 
 
 https://community.jaspersoft.com/questions/1079766/mongodb-connection-solved
@@ -19,6 +21,8 @@ https://community.graylog.org/t/cant-connect-to-mongodb/11476
 https://community.graylog.org/t/updated-from-v2-2-to-v2-3-cant-reach-elasticsearch/4974/3
 
 https://talk.plesk.com/threads/docker-elasticsearch-how-to.360593/
+
+https://serveradmin.ru/ustanovka-i-nastroyka-elasticsearch-logstash-kibana-elk-stack/#Ustanovka_i_nastrojka_Winlogbeat
 
 
 
@@ -34,6 +38,7 @@ https://github.com/fluent/fluentd/issues/2425
 ```
 - https://serveradmin.ru/ochistka-elasticsearch-s-pomoshhyu-curator/
 - https://4admin.space/all/rotaciya-indektov-elasticsearch-utilita-curator-ubuntu-19-04-18/
+- http://cyberflow.net/2013/05/logstash-rotate-logs-in-elasticsearch.html
 
 ```Curator```
 
