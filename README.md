@@ -66,5 +66,8 @@ GET /_cat/indices/_all?v&s=store.size
 
 https://coderlessons.com/tutorials/noveishie-tekhnologii/izuchite-uprugii-poisk/elasticsearch-kratkoe-rukovodstvo
 
+-
+https://habr.com/ru/company/itsoft/blog/556194/
+
 
 service --status-all
