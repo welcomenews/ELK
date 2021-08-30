@@ -49,3 +49,9 @@ Filter
 https://community.graylog.org/t/logstash-output-to-graylog-3-0-cant-search-message/10333
 
 https://discuss.elastic.co/t/logstash-parsing-nginx-logs-failed/192864
+
+Посмотреть индексы 
+
+curl 'localhost:9200/_cat/indices?v'
+
+GET /_cat/indices/_all?v&s=store.size
