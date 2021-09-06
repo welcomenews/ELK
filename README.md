@@ -12,6 +12,11 @@ https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubunt
 
 https://serveradmin.ru/nastraivaem-sbor-logov-windows-server-v-elk-stack/
 
+```
+Graylog
+```
+- https://www.8host.com/blog/upravlenie-logami-s-pomoshhyu-graylog-2-v-ubuntu-16-04/
+
 
 
 https://community.jaspersoft.com/questions/1079766/mongodb-connection-solved
