@@ -16,6 +16,7 @@ https://serveradmin.ru/nastraivaem-sbor-logov-windows-server-v-elk-stack/
 Graylog
 ```
 - https://www.8host.com/blog/upravlenie-logami-s-pomoshhyu-graylog-2-v-ubuntu-16-04/
+- https://habr.com/ru/company/pixonic/blog/341274/
 
 
 
@@ -77,7 +78,8 @@ https://habr.com/ru/company/itsoft/blog/556194/
 
 service --status-all
 
-
+```Мониторинг логов```
+https://kamaok.org.ua/?p=3386
 
 
 
