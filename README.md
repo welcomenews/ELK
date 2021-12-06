@@ -1,5 +1,7 @@
 # ELK
 
+https://serveradmin.ru/ustanovka-i-nastroyka-elasticsearch-logstash-kibana-elk-stack/
+
 https://docs.graylog.org/en/4.0/pages/installation/os/ubuntu.html
 
 https://docs.fluentd.org/installation/install-by-deb
