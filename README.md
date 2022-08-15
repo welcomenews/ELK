@@ -1,5 +1,8 @@
 # ELK
 
+#### Скачать deb пакеты
+https://www.elastic.co/downloads/past-releases/
+
 https://serveradmin.ru/ustanovka-i-nastroyka-elasticsearch-logstash-kibana-elk-stack/
 
 https://docs.graylog.org/en/4.0/pages/installation/os/ubuntu.html
