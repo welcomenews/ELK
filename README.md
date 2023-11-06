@@ -97,3 +97,8 @@ https://kamaok.org.ua/?p=3386
 sudo -E sed -i -e "s/password_secret =.*/password_secret = $(pwgen -s 128 1)/" /etc/graylog/server/server.conf
 
 sudo sed -i -e "s/root_password_sha2 =.*/root_password_sha2 = $(echo -n 'password' | shasum -a 256 | cut -d' ' -f1)/" /etc/graylog/server/server.conf
+
+
+https://github.com/Misterhex/ansible-elk.git
+https://github.com/sadsfae/ansible-elk.git
+
